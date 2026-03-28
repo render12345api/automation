@@ -28,7 +28,7 @@ ADMIN_PASSWORD = "karthikraja2007"
 # ── Accounts ──────────────────────────────────────────────
 users_lock = threading.Lock()
 USERS = [
-    {"username": "armad7175", "password": "karthikraja2007",
+    {"username": "user", "password": "pass",
      "health": "unknown", "last_login": None, "fail_count": 0,
      "total_sent": 0},
 ]
